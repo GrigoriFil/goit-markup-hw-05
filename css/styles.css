@@ -848,7 +848,6 @@ footer{
         line-height: 1.17;
         letter-spacing: 0.04em;
         color: #8e8f99;
-        display: inline-flex;
         align-items: center;
 }
 
@@ -870,11 +869,9 @@ footer{
 
 .container-privacy {
         margin-bottom: 24px;
-        display: inline-flex;
 }
 
 .modal-span {
-        display: inline-flex;
         
 }
 
@@ -895,7 +892,6 @@ footer{
         border: none;
 
         fill: #F4F4FD;
-        display: inline-flex;
 }
 
 .modal-check-icon {
