@@ -870,6 +870,7 @@ footer{
 
 .container-privacy {
         margin-bottom: 24px;
+        display: inline-flex;
 }
 
 .modal-span {
@@ -894,6 +895,7 @@ footer{
         border: none;
 
         fill: #F4F4FD;
+        display: inline-flex;
 }
 
 .modal-check-icon {
